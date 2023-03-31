@@ -1,6 +1,6 @@
 Name:		texlive-hypdoc
 Version:	63808
-Release:	1
+Release:	2
 Summary:	Hyper extensions for doc.sty
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hypdoc
