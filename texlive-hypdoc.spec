@@ -3,7 +3,7 @@ Version:	68661
 Release:	1
 Summary:	Hyper extensions for doc.sty
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hypdoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hypdoc
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hypdoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hypdoc.doc.r%{version}.tar.xz
